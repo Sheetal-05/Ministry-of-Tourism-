@@ -14,9 +14,7 @@
   text-transform: capitalize;
   -webkit-transition: .2s linear;
   transition: .2s linear;
-  /* margin-top: 10px; */
 }
-
 
 html {
   font-size: 62.5%;
@@ -307,10 +305,14 @@ section {
 
 
 
-.logo img {
-  width: 100px; /* set the width of the image */
-  height: auto; /* maintain aspect ratio */
-}
+
+
+
+
+
+
+
+
 
 
 
@@ -1207,8 +1209,8 @@ a .news__item:hover {
 
 
 .footer {
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url(../images/ftr2.jpg) no-repeat;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/ftr2.jpg) no-repeat;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url(../images/r.jpg) no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/r.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
