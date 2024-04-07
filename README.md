@@ -1,7 +1,7 @@
 
 <div id="top"></div>
-<h1 align="center"> Visit Sri Lanka Website Project</h1>
-<p align="center"><i> A Blog for travelers to planning their trip to Sri Lanka </i></p>
+<h1 align="center"> Visit Ministry of Tourism Website</h1>
+<!-- <p align="center"><i> A Blog for travelers to planning their trip to Sri Lanka </i></p> -->
 
 
 ## Table of Contents
